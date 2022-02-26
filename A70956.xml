@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the late Lord Russel, to the sheriffs together with the paper deliver'd by him to them, at the place of execution, on July 21. 1683.</title>
+            <author>Russell, William, Lord, 1639-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70956</idno>
+            <idno type="STC">Wing R2356A</idno>
+            <idno type="STC">ESTC R235401</idno>
+            <idno type="EEBO-CITATION">99826352</idno>
+            <idno type="PROQUEST">99826352</idno>
+            <idno type="VID">30753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30753)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1800:7; 2018:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the late Lord Russel, to the sheriffs together with the paper deliver'd by him to them, at the place of execution, on July 21. 1683.</title>
+                  <author>Russell, William, Lord, 1639-1683.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Darby, by direction of the Lady Russel,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>This edition has the words "Entred according to order" in black letter above the colophon.</note>
+                  <note>Identified as Wing R2355 on UMI microfilm "Early English books, 1641-1700" reel 1800.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:30753:1" rendition="simple:additions"/>
+            <head>THE SPEECH Of the LATE Lord RUSSEL, To the SHERIFFS: Together with the PAPER deliver'd by him to them, at the Place of Execution, on <hi>July</hi> 21. 1683.</head>
+            <opener>
+               <salute>Mr. SHERIFF,</salute>
+            </opener>
+            <p>I Expected the Noiſe would be ſuch, that I could not b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very well heard: I was never fond of much ſpeaking, much leſs now; Therefore I have ſet down in this Paper, all that I think fit to leave behind me. God knows how far I was always from De<g ref="char:EOLhyphen"/>ſigns againſt the King's Perſon, or of altering the Government; and I ſtill pray for the Pre<g ref="char:EOLhyphen"/>ſervation of both, and of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>I am told, that Captain <hi>Walcot</hi> has ſaid ſome things concerning my knowledg of the Plot: I know not whether the Report is true, or not; I hope it is not: For to my knowledg, I never ſaw him, or ſpake with him in my whole Life; and in the Words of a dying Man, I profeſs I know of no Plot, ei<g ref="char:EOLhyphen"/>ther againſt the King's Life, or the Govern<g ref="char:EOLhyphen"/>ment. But I have now done with this World, and am going to a better. I forgive all the World, and I thank God I die in Charity with all Men; and I wiſh all ſincere Prote<g ref="char:EOLhyphen"/>ſtants may love one another, and not make way for Popery by their Animoſities.</p>
+            <div type="text">
+               <head>The PAPER deliver'd to the SHERIFFS.</head>
+               <p>I Thank God, I find my ſelf ſo compoſed and prepared for Death, and my Thoughts ſo fixed on another World, that I hope in God, I am now quite weaned from ſetting my Heart on this. Yet I cannot forbear ſpending ſome time now, in ſetting down in Writing a fuller Account of my Con<g ref="char:EOLhyphen"/>dition, to be left behind me, than I'll venture to ſay at the Place of Execution, in the Noiſe and Clutter that is like to be there. I bleſs God heartily for thoſe many Bleſſings, which he in his infinite Mercy has beſtowed upon me, through the whole Courſe of my Life: That I was born of worthy good Pa<g ref="char:EOLhyphen"/>rents, and had the Advantages of a religi<g ref="char:EOLhyphen"/>ous Education; which I have often thank'd God very heartily for, and look'd upon as an invaluable Bleſſing: For even when I minded it leaſt, it ſtill hung about me, and gave me checks, and has now for many Years ſo influ<g ref="char:EOLhyphen"/>enced and poſſeſſed me, that I feel the happy Effects of it in this my Extremity, in which I have been ſo wonderfully (I thank God) ſupported, that neither my Impriſonment, nor the Fear of Death, have been able to diſ<g ref="char:EOLhyphen"/>compoſe me to any degree; but on the con<g ref="char:EOLhyphen"/>trary, I have found the Aſſurances of the Love and Mercy of God, in and through my bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="2" facs="tcp:30753:2"/>Redeemer, in whom only I truſt; and I do not queſtion, but that I am going to par<g ref="char:EOLhyphen"/>take of that Fulneſs of Joy which is in his preſence, the hopes whereof does ſo wonder<g ref="char:EOLhyphen"/>fully delight me, that I reckon this as the happieſt time of my Life, tho others may look upon it as the ſaddeſt.</p>
+               <p>I have lived, and now die of the Reformed Religion, a true and ſincere Proteſtant, and in the Communion of the Church of <hi>England,</hi> tho I could never yet comply with, or riſe up to all the heights of many People. I wiſh with all my Soul, all our unhappy Differences were removed, and that all ſincere Proteſtants would ſo far conſider the Danger of Popery, as to lay aſide their Heats, and agree againſt the Common Enemy; and that the Church<g ref="char:EOLhyphen"/>men would be leſs ſevere, and the Diſſenters leſs ſcrupulous: For I think Bitterneſs and Perſecution are at all times bad, but much more now.</p>
+               <p>For Popery, I look on it as an Idolatrous and Bloody Religion; and therefore thought my ſelf bound, in my Station, to do all I could againſt it. And by that, I foreſaw I ſhould procure ſuch great Enemies to my ſelf, and ſo powerful Ones, that I have been now for ſome time expecting the worſt. And bleſſed be God, I fall by the Axe, and not by the Fiery Tryal. Yet, whatever Apprehenſions I had of Popery, and of my own ſevere and heavy ſhare I was like to have under it, when it ſhould prevail, I never had a Thought of doing any thing againſt it baſely, or inhu<g ref="char:EOLhyphen"/>manly; but what could well conſiſt with the Chriſtian Religion, and the Laws and Liber<g ref="char:EOLhyphen"/>ties of this Kingdom. And I thank God, I have examin'd all my Actings in that Matter, with ſo great Care, that I can appeal to God Almighty, who knows my Heart, that I went on Sincerely, without being moved, either by Paſſion, By-End, or Ill-Deſign. I have always loved my Country much more than my Life; and never had any Deſign of changing the Government, which I value, and look upon as one of the beſt Governments in the World, and would always have been ready to venture my Life for the preſerving of it, and would have ſuffered any Extremity, rather than have conſented to any Deſign to take away the King's Life: Neither ever had Man the Im<g ref="char:EOLhyphen"/>pudence to propoſe ſo baſe and barbarous a thing to me. And I look on it as a very un<g ref="char:EOLhyphen"/>happy, and uneaſy part of my preſent Con<g ref="char:EOLhyphen"/>dition, That in my Indictment there ſhould be ſo much as mention of ſo vile a Fact; tho nothing in the leaſt was ſaid to prove any ſuch Matter; but the contrary, by the Lord <hi>How<g ref="char:EOLhyphen"/>ard:</hi> Neither does any Body, I am confident, believe the leaſt of it. So that I need not, I think, ſay more.</p>
+               <p>For the King, I do ſincerely pray for him, and wiſh well to him, and to the Nation, That they may be happy in one another; that he may be indeed the Defender of the Faith; That the Proteſtant Religion, and the Peace, and Safe<g ref="char:EOLhyphen"/>ty of the Kingdom may be preſerved, and flou<g ref="char:EOLhyphen"/>riſh under his Government; and that He in his Perfon may be happy, both here, and hereafter.</p>
+               <p>As for the ſhare I had in the Proſecution of the Popiſh Plot, I take God to Witneſs, that I proceeded in it in the Sincerity of my Heart; being then really convinced (as I am ſtill) that there was a Conſpiracy againſt the King, the Nation, and the Proteſtant Religi<g ref="char:EOLhyphen"/>on: And I likewiſe profeſs, that I never knew any thing, either directly or indirectly, of any Practice with the Witneſſes; which I look upon as ſo horrid a thing, that I could never have endured it. For, I thank God, Falſhood and Cruelty were never in my Nature, but always the fartheſt from it imaginable. I did believe, and do ſtill, that Popery is breaking in upon the Nation; and that thoſe who ad<g ref="char:EOLhyphen"/>vance it, will ſtop at nothing, to carry on their Deſign: I am heartily ſorry that ſo ma<g ref="char:EOLhyphen"/>ny Proteſtants give their helping Hand to it. But I hope God will preſerve the Proteſtant Religion, and this Nation: tho I am afraid it will fall under very great Tryals, and very ſharp Sufferings. And indeed the Impiety, and Profaneneſs that abounds, and appears ſo ſcan<g ref="char:EOLhyphen"/>dalouſly bare-fac'd every where, gives too juſt reaſon to fear the worſt things which can befal a People. I pray God prevent it, and give thoſe who have ſhew'd Concern for the Publick Good, and who have appear'd Hearty for the true Intereſt of the Nation, and the Proteſtant Religion, Grace to live ſo, that they may not caſt a Reproach on that which they endeavour to advance; which (God knows) has often given me many ſad Thoughts. And I hope ſuch of my <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riends as may think they are touch'd by this, will not take what I ſay in ill part, but endeavour to amend their ways, and live ſuitable to the Rules of the true Reformed Religion; which is the only thing can adminiſter true Comfort at the lat<g ref="char:EOLhyphen"/>ter End, and revive a Man when he comes to Dye.</p>
+               <p>As for my preſent Condition, I bleſs God, I have no Repining in my Heart at it. I know for my Sins I have deſerved much worſe at the Hands of God; So that I cheerfully ſub<g ref="char:EOLhyphen"/>mit to ſo ſmall a Puniſhment, as the being ta<g ref="char:EOLhyphen"/>ken off a few Years ſooner, and the being made a Spectacle to the World. I do freely forgive all the World, particularly thoſe con<g ref="char:EOLhyphen"/>cerned in taking away my Life: and I deſire and conjure my Friends to think of no Re<g ref="char:EOLhyphen"/>venge, but to ſubmit to the holy Will of God, into whoſe Hands I reſign my ſelf en<g ref="char:EOLhyphen"/>tirely.</p>
+               <p>But to look back a little; I cannot but give ſome touch about the Bill of Excluſion, and ſhew the Reaſons of my appearing in that Bu<g ref="char:EOLhyphen"/>ſineſs; which in ſhort is this: That I thought the Nation was in ſuch danger of Popery, and that the Expectation of a <hi>Popiſh Succeſſor</hi> (as I have ſaid in Parliament) put the King's Life likewiſe in ſuch danger, that I ſaw no
+<pb n="3" facs="tcp:30753:2"/>way ſo effectual to ſecure both, as ſuch a Bill. As to the Limitations which were propoſed, if they were ſincerely offered, and had paſs'd into a Law, the Duke then would have been excluded from the Power of a King, and the Government quite altered, and little more than the Name of a King left. So I could not ſee either Sin or Fault in the one, when all People were willing to admit of 'tother; but thought it better to have a King with his Pre<g ref="char:EOLhyphen"/>rogative, and the Nation eaſy and ſafe under him, than a King without it, which muſt have bred perpetual Jealouſies, and a continual Struggle. All this I ſay, only to juſtify my ſelf, and not to inflame others: Though I cannot but think my Earneſtneſs in that mat<g ref="char:EOLhyphen"/>ter has had no ſmall Influence in my preſent Sufferings. But I have now done with this World, and am going to a Kingdom which cannot be moved.</p>
+               <p>And as to the conſpiring to ſeize the Guards, which is the Crime for which I am condemn<g ref="char:EOLhyphen"/>ed, and which was made a conſtructive Trea<g ref="char:EOLhyphen"/>ſon for taking away the King's Life, to bring it within the Statute of <hi>Edw.</hi> the 3d. I ſhall give this true and clear Account. I never was at Mr. <hi>Shepheard</hi>'s with that Com<g ref="char:EOLhyphen"/>pany but once, and there was no undertaking then of ſecuring, or ſeizing the Guards; nor none appointed to view, or examine them: Some Diſcourſe there was of the Feaſibleneſs of it; and ſeveral times by accident, in gene<g ref="char:EOLhyphen"/>ral Diſcourſe elſewhere, I have heard it men<g ref="char:EOLhyphen"/>tion'd, as a thing might eaſily be done, but never conſented to as fit to be done. And I re<g ref="char:EOLhyphen"/>member particularly at my Lord <hi>Shaftsbury</hi>'s, there being ſome general Diſcourſe of this kind, I immediately flew out, and exclaim'd againſt it, and ask'd, If the thing ſucceeded, what muſt be done next but maſſacring the Guards, and killing them in cold Blood? Which I look'd upon as ſo deteſtable a thing, and ſo like a Popiſh Practice, that I could not but abhor it. And at the ſame time the Duke of <hi>Monmouth</hi> took me by the Hand, and told me very kindly, My Lord, I ſee you and I are of a Temper; Did you ever hear ſo horrid a thing? And I muſt needs do him that Juſtice to declare, that I never obſerved in him but an Abhorrence to all baſe things.</p>
+               <p>As to my going to Mr. <hi>Shepheard</hi>'s, I went with an Intention to taſte <hi>Sherry;</hi> for he had promiſed me to reſerve for me the next very good Piece he met with, when I went out of Town; and if he recollects, he may remem<g ref="char:EOLhyphen"/>ber I ask'd him about it, and he went and fetch'd a Bottle; but when I taſted it, I ſaid 'twas hot in the Mouth; and deſired that whenever he met with a choice Piece, he would keep it for me: which he promiſed. I enlarge the more upon this, becauſe Sir <hi>Geo. Jefferies</hi> inſinuated to the Jury, as if I had made a Story about going thither; but I ne<g ref="char:EOLhyphen"/>ver ſaid, that was the only Reaſon: And I will now truly, and plainly add the reſt.</p>
+               <p>I was the day before this Meeting, come to Town, for two or three days, as I had done once or twice before; having a very near and dear Relation lying in a very lan<g ref="char:EOLhyphen"/>guiſhing and deſperate Condition: And the Duke of <hi>Monmouth</hi> came to me, and told me, He was extreamly glad I was come to Town; for my Lord <hi>Shaftsbury,</hi> and ſome hot Men would undo us all: How ſo, my Lord, I ſaid? Why (anſwered he) they'll certainly do ſome diſorderly thing or other, if great Care be not taken, and therefore for God's ſake uſe your Endeavours with your Friends to prevent any thing of this kind. He told me, there would be Company at Mr. <hi>Shepheard</hi>'s that Night, and deſired me to be at home in the Evening, and he would call me; which he did: And when I came into the Room, I ſaw Mr. <hi>Rumſey</hi> by the Chimny; though he ſwears he came in af<g ref="char:EOLhyphen"/>ter; and there were things ſaid by ſome with much more Heat, than Judgment, which I did ſufficiently diſapprove, and yet for theſe things I ſtand condemned. But I thank God, my part was ſincere, and well meant. It is, I know, inferred from hence, and was preſſed to me, that I was acquainted with theſe Heats and ill Deſigns, and did not diſ<g ref="char:EOLhyphen"/>cover them. But this is but Miſpriſion of Treaſon at moſt. So I dye innocent of the Crime I ſtand condemn'd for, and I hope no<g ref="char:EOLhyphen"/>body will imagine that ſo mean a Thought could enter into me, as to go about to ſave my ſelf, by accuſing others. The part that ſome have acted lately of that kind, has not been ſuch as to invite me to love Life at ſuch a rate.</p>
+               <p>As for the Sentence of Death paſſed upon me, I cannot but think it a very hard one. For nothing was ſworn againſt me (whether true or falſe, I will not now examine) but ſome Diſcourſes about making ſome Stirs. And this is not levying War againſt the King, which is Treaſon by the Statute of <hi>Edward</hi> the Third, and not the conſulting and diſcourſing about it, which was all that was witneſſed againſt me. But, by a ſtrange Fetch, the Deſign of ſeizing the Guards, was conſtrued a Deſign of killing the King; and ſo I was in that caſt.</p>
+               <p>And now I have truly and ſincerely told what my part was in that, which cannot be more than a bare Miſpriſion; and yet I am condemned as guilty of a Deſign of killing the King. I pray God lay not this to the charge, neither of the King's Counſel, nor Judges, nor Sheriffs, nor Jury: And for the Witneſſes, I pity them, and wiſh them well. I ſhall not reckon up the Particulars wherein they did me wrong; I had rather their own Conſciences ſhould do that, to which, and the Mercies of God, I leave them. Only I ſhall averr, that what I ſaid of my not hearing Col. <hi>Rumſey</hi> deliver any Meſſage from my Lord <hi>Shaftsbury,</hi> was true; for I always de<g ref="char:EOLhyphen"/>teſted Lying, tho never ſo much to my ad<g ref="char:EOLhyphen"/>vantage. And I hope none will be ſo uniuſt
+<pb n="4" facs="tcp:30753:3"/>and uncharitable, as to think I would venture on it in theſe my laſt Words, for which I am ſo ſoon to give an account to the Great God, the Searcher of Hearts, and Judg of all Things.</p>
+               <p>From the Time of chuſing Sheriffs, I con<g ref="char:EOLhyphen"/>cluded the Heat in that Matter would pro<g ref="char:EOLhyphen"/>duce ſomething of this kind; and I am not much ſurprized to find it fall upon me. And I wiſh what is done to me, may put a ſtop, and ſatiate ſome Peoples Revenge, and that no more innocent Blood be ſhed; for I muſt, and do ſtill look upon mine as ſuch, ſince I know I was guilty of no Treaſon; and therefore I would not betray my Innocence by Flight, of which I do not (I thank God) yet repent, (tho much preſſed to it) how fatal ſoever it may have ſeem'd to have pro<g ref="char:EOLhyphen"/>ved to me; for I look upon my Death in this manner, (I thank God) with other eyes than the World does. I know I ſaid but lit<g ref="char:EOLhyphen"/>tle at the Trial, and I ſuppoſe it looks more like Innocence than Guilt. I was alſo advis'd not to confeſs Matter of Fact plainly, ſince that muſt certainly have brought me within the Guilt of Miſpriſion. And being thus re<g ref="char:EOLhyphen"/>ſtrained from dealing frankly and openly, I choſe rather to ſay little, than to depart from that Ingenuity, that, by the Grace of God, I had carried along with me in the former parts of my Life, and ſo could eaſier be ſilent, and leave the whole Matter to the Conſcience of the Jury, than to make the laſt and ſolemneſt part of my Life ſo different from the Courſe of it, as the uſing little Tricks and Evaſions muſt have been. Nor did I ever pretend to a great readineſs in ſpeaking: I wiſh thoſe Gentlemen of the Law, who have it, would make more Conſcience in the uſe of it, and not run Men down by Strains and Fetches, impoſe on eaſy and willing Juries, to the Ruine of innocent Men: For to kill by Forms, and Subtilties of Law, is the worſt ſort of Murther. But I wiſh the Rage of hot Men, and the Partialities of Juries, may be ſtopp'd with my Blood, which I would offer up with ſo much the more Joy, if I thought I ſhould be the laſt were to ſuffer in ſuch a way.</p>
+               <p>Since my Sentence, I have had but few Thoughts, but Preparatory ones for Death: Yet the Importunity of my Friends, and par<g ref="char:EOLhyphen"/>ticularly of the Beſt and Deareſt Wife in the World, prevailed with me to ſign Petitions, and make an Addreſs for my Life: To which I was very averſe. For (I thank God) tho in all reſpects I have lived one of the happieſt, and contented'ſt Men of the World, (for now very near fourteen years) yet I am ſo willing to leave all, that it was not without Difficul<g ref="char:EOLhyphen"/>ty, that I did any thing for the ſaving of my Life, that was Begging. But I was willing to let my Friends ſee what Power they had over me, and that I was not Obſtinate, nor Sullen, but would do any thing that an honeſt Man could do, for their Satisfaction. Which was the only Motive that ſway'd, or had any weight with me.</p>
+               <p>And now to ſum up all: As I never had any Deſign againſt the King's Life, or the Life of any Man whatſoever; ſo I never was in any Contrivance of altering the Govern<g ref="char:EOLhyphen"/>ment. What the Heats, Wickedneſs, Paſſi<g ref="char:EOLhyphen"/>ons, and Vanities of other Men have occaſion<g ref="char:EOLhyphen"/>ed, I ought not to be anſwerable for; nor could I repreſs them, tho I now ſuffer for them. But the Will of the Lord be done; into whoſe Hands I commend my Spirit; and truſt that Thou, O moſt Merciful Father, haſt forgiven me all my Tranſgreſſions; the Sins of my Youth, and all the Errors of my paſt Life; and that Thou wilt not lay my ſecret Sins and Ignorances to my Charge; but wilt graciouſly ſupport me during that ſmall part of my Time now before me, and aſſiſt me in my laſt Moments, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not leave me then to be diſorder'd by Fear, or any other Temptation; but make the Light of thy Countenance to ſhine upon me, for Thou art my Sun, and my Shield: And as Thou ſup<g ref="char:EOLhyphen"/>porteſt me by thy Grace, ſo I hope thou wilt hereafter Crown me with Glory, and receive me into the Fellowſhip of Angels, and Saints, in that bleſſed Inheritance purchaſed for me by my moſt merciful Redeemer; who is, I truſt, at thy Right Hand, preparing a place for me, and is ready to receive me: Into whoſe Hands I commend my Spirit.</p>
+               <p>
+                  <hi>Entred according to Order.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Darby,</hi> by Direction of the Lady <hi>RUSSEL.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
